@@ -19,4 +19,4 @@ My research preferences lie on statistical methods in machine learning. Recently
 
 Teaching
 ======
-Spring 2022, COMPSCI688 Probabilistic Graphical Models
+Spring 2022, COMPSCI688 Probabilistic Graphical Models, Teaching Assistant
