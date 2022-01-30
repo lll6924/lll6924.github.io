@@ -12,8 +12,8 @@ I am a first year MS/PhD student in Computer Science at University of Massachuse
 
 Research Preferences
 ======
-My research preferences lie on statistical methods in machine learning. Particularly, I like to work on
+My research preferences lie on statistical methods in machine learning. Recently, I am working on
 + Variational Inference and Markov Chain Monte Carlo
-+ Markov Decision Process
++ Probabilistic Programming
 
 
