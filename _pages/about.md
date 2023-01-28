@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year MS/PhD student in Computer Science at University of Massachusetts Amherst, working with Professor [Daniel Sheldon](https://people.cs.umass.edu/~sheldon/index.html). Previously I received my B.Eng. in Computer Science from Tsinghua University in Beijing. In Fall 2018 and Spring 2019, I worked on VAE with flow prior at [NetMan](http://netman.aiops.org) with Professor [Dan Pei](https://netman.aiops.org/~peidan/). In Spring 2020, I worked on Off-Policy Evaluation with Multiple Behavior Policies with Professor Jiaxing Song. 
+I am a third year MS/PhD student in Computer Science at University of Massachusetts Amherst, working with Professor [Daniel Sheldon](https://people.cs.umass.edu/~sheldon/index.html). Previously I received my B.Eng. in Computer Science from Tsinghua University in Beijing, where I worked with Professors [Dan Pei](https://netman.aiops.org/~peidan/) and Jiaxing Song. 
+If you want to talk to me, the best way is to give me a summer internship offer.
 
 Research Preferences
 ======
@@ -20,3 +21,5 @@ My research preferences lie on statistical methods in machine learning. Recently
 Teaching
 ======
 Spring 2022, COMPSCI688 Probabilistic Graphical Models, Teaching Assistant
+
+Spring 2023, COMPSCI688 Probabilistic Graphical Models, Teaching Assistant
