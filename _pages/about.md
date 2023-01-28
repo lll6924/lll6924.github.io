@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a third year MS/PhD student in Computer Science at University of Massachusetts Amherst, working with Professor [Daniel Sheldon](https://people.cs.umass.edu/~sheldon/index.html). Previously I received my B.Eng. in Computer Science from Tsinghua University in Beijing, where I worked with Professors [Dan Pei](https://netman.aiops.org/~peidan/) and Jiaxing Song. 
-If you want to talk to me, the best way is to give me a summer internship offer.
+If you want to work with me, the best way is to give me a summer internship offer.
 
 Research Preferences
 ======
