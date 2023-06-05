@@ -8,15 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year MS/PhD student in Computer Science at University of Massachusetts Amherst, working with Professor [Daniel Sheldon](https://people.cs.umass.edu/~sheldon/index.html). Previously I received my B.Eng. in Computer Science from Tsinghua University in Beijing, where I worked with Professors [Dan Pei](https://netman.aiops.org/~peidan/) and Jiaxing Song. 
-If you want to work with me, the best way is to give me a summer internship offer.
+I am a third year MS/PhD student in Computer Science at University of Massachusetts Amherst, working with Professor [Daniel Sheldon](https://people.cs.umass.edu/~sheldon/index.html). Previously I received my B.Eng. in Computer Science from Tsinghua University in Beijing, where I worked with Professors [Dan Pei](https://netman.aiops.org/~peidan/) and Jiaxing Song.
 
 Research Preferences
 ======
 My research preferences lie on statistical methods in machine learning. Recently, I am working on
 + Variational Inference, Markov Chain Monte Carlo and Sequential Monte Carlo
 + Probabilistic Programming
-
 
 Teaching
 ======
