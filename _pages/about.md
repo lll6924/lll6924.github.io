@@ -15,6 +15,7 @@ Research Preferences
 My research preferences lie on statistical methods in machine learning. Recently, I am working on
 + Variational Inference, Markov Chain Monte Carlo and Sequential Monte Carlo
 + Probabilistic Programming
++ Applications of Diffusion Models in Computer Graphics
 
 Teaching
 ======
