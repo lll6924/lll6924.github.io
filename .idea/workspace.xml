@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96e427a5-7981-47c8-8e51-a027f9b8bd43" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_pages/algorithms.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -134,11 +136,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "last_opened_file_path": "/Users/laijinlin/lll6924.github.io/files"
+    "last_opened_file_path": "/Users/laijinlin/lll6924.github.io/_pages"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_pages" />
       <recent name="$PROJECT_DIR$/files" />
       <recent name="$PROJECT_DIR$/_publications" />
     </key>
