@@ -18,5 +18,5 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Algorithms"
-    url: /algorithms/
+ # - title: "Algorithms"
+ #   url: /algorithms/
