@@ -5,11 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
+You can also find my articles on <u><a href="https://scholar.google.com/citations?user=tCc0cGwAAAAJ&hl=en&authuser=1">my Google Scholar profile</a>.</u>
 
 **Jinlin Lai**, Anustup Choudhury, Guan-Ming Su. (2024). Outdoor Scene Relighting with Diffusion Models. In *Proceedings of the 27th International Conference on Pattern Recognition* (ICPR), Kolkata, India. (to appear)
 
@@ -21,4 +17,4 @@ author_profile: true
 
 **Jinlin Lai**, Lixin Zou, Jiaxing Song. 2020. Optimal Mixture Weights for Off-Policy Evaluation with Multiple Behavior Policies. Offline Reinforcement Learning Workshop at Neural Information Processing Systems. [[link]](https://arxiv.org/pdf/2011.14359.pdf)
 
-Haowen Xu, Wenxiao Chen, **Jinlin Lai**, Zhihan Li, Youjian Zhao, Dan Pei. 2020. Shallow VAEs with RealNVP Prior can Perform as Well as Deep Hierarchical VAEs. ICONIP. [[link]](https://link.springer.com/chapter/10.1007/978-3-030-63823-8_74)
+Haowen Xu, Wenxiao Chen, **Jinlin Lai**, Zhihan Li, Youjian Zhao, Dan Pei. 2020. Shallow VAEs with RealNVP Prior can Perform as Well as Deep Hierarchical VAEs. ICONIP. [[link]](https://link.springer.com/chapter/10.1007/978-3-030-63823-8_74) [[preprint](https://arxiv.org/pdf/1905.13452.pdf)
