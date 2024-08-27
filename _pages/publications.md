@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications & working papers"
 permalink: /publications/
 author_profile: true
 ---
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=tCc0cGwAAAAJ&hl=en&authuser=1).
 
-**Jinlin Lai**, Daniel Sheldon, Justin Domke. (2024). Hamiltonian Monte Carlo Inference of Marginalized Linear Mixed-Effects Models. Under review.
+**Jinlin Lai**, Daniel Sheldon, Justin Domke. (2024). Hamiltonian Monte Carlo Inference of Marginalized Linear Mixed-Effects Models. Working in progress.
 
 **Jinlin Lai**, Anustup Choudhury, Guan-Ming Su. (2024). Outdoor Scene Relighting with Diffusion Models. In *Proceedings of the 27th International Conference on Pattern Recognition* (ICPR), Kolkata, India. (to appear)
 
