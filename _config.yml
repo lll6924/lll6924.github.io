@@ -86,7 +86,7 @@ author:
   location         : "Location"
   employer         :
   pubmed           :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=tCc0cGwAAAAJ&hl=en&authuser=1"
   email            : "jinlinlai@umass.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
