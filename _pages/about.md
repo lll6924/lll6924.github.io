@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year MS/PhD student in Computer Science at University of Massachusetts Amherst, working with Professor [Daniel Sheldon](https://people.cs.umass.edu/~sheldon/index.html). Previously I received my B.Eng. in Computer Science from Tsinghua University in Beijing, where I worked with Professors [Dan Pei](https://netman.aiops.org/~peidan/) and Jiaxing Song. I am actively looking for 2024 summer internship opportunities. Please reach out to me if you think I am a fit to your position!
+I am a PhD student in Computer Science at University of Massachusetts Amherst, working with Professor [Daniel Sheldon](https://people.cs.umass.edu/~sheldon/index.html). Previously I received my B.Eng. in Computer Science from Tsinghua University in Beijing, where I worked with Professors [Dan Pei](https://netman.aiops.org/~peidan/) and Jiaxing Song. I am actively looking for 2025 summer internship opportunities. Please reach out to me if you think I am a fit to your position!
 
 Research Preferences
 ======
@@ -22,3 +22,7 @@ Teaching
 Spring 2022, COMPSCI688 Probabilistic Graphical Models, Teaching Assistant
 
 Spring 2023, COMPSCI688 Probabilistic Graphical Models, Teaching Assistant
+
+Spring 2024, COMPSCI688 Probabilistic Graphical Models, Teaching Assistant
+
+Fall 2024, COMPSCI611 Advanced Algorithms, Teaching Assistant
