@@ -16,4 +16,8 @@ My research preferences lie on statistical methods in machine learning. Recently
 + Approximate Inference Methods
 + Probabilistic Programming
 + Generative Models
-+ Statistical Calibration
++ Simulation Based Inference
+
+Other
+======
+I "made up" some interesting problems in algorithms during my high school and undergraduate. Too bad I do not have time and energy to translate and post them here.
