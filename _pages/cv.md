@@ -27,10 +27,10 @@ Work experiences
 Services
 ======
 Served as a reviewer for
-- ICML 2022
-- AISTATS 2023, 2024
-- AABI 2023, 2024
 - NeurIPS 2024
+- AABI 2023, 2024
+- AISTATS 2023, 2024
+- ICML 2022
 
 Talks
 ======
@@ -38,10 +38,13 @@ Talks
 
 Teaching
 ======
-Spring 2022, Probabilistic Graphical Models, Teaching Assistant
-
-Spring 2023, Probabilistic Graphical Models, Teaching Assistant
+Fall 2024, Advanced Algorithms, Teaching Assistant
 
 Spring 2024, Probabilistic Graphical Models, Teaching Assistant
 
-Fall 2024, Advanced Algorithms, Teaching Assistant
+Spring 2023, Probabilistic Graphical Models, Teaching Assistant
+
+Spring 2022, Probabilistic Graphical Models, Teaching Assistant
+
+
+
