@@ -13,16 +13,7 @@ I am a PhD student in Computer Science at University of Massachusetts Amherst, w
 Research Preferences
 ======
 My research preferences lie on statistical methods in machine learning. Recently, I am working on
-+ Variational Inference, Markov Chain Monte Carlo and Sequential Monte Carlo
++ Approximate Inference Methods
 + Probabilistic Programming
-+ Application of Diffusion Models in Computer Graphics
-
-Teaching
-======
-Spring 2022, Probabilistic Graphical Models, Teaching Assistant
-
-Spring 2023, Probabilistic Graphical Models, Teaching Assistant
-
-Spring 2024, Probabilistic Graphical Models, Teaching Assistant
-
-Fall 2024, Advanced Algorithms, Teaching Assistant
++ Generative Models
++ Statistical Calibration
