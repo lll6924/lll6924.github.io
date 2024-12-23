@@ -10,7 +10,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 **Jinlin Lai**\*, Yuling Yao\*. (2024). Predictive variational inference: Learn the predictively optimal posterior distribution. arXiv preprint arXiv:2410.14843. [[link]](https://arxiv.org/pdf/2410.14843.pdf)
 
-**Jinlin Lai**, Daniel Sheldon, Justin Domke. (2024). Hamiltonian Monte Carlo Inference of Marginalized Linear Mixed-Effects Models. NeurIPS 2024, the Thirty-Eighth Annual Conference on Neural Information Processing Systems. [[link]](https://arxiv.org/pdf/2410.24079.pdf) [[code]](https://github.com/lll6924/hamiltonian_lme)
+**Jinlin Lai**, Justin Domke, Daniel Sheldon. (2024). Hamiltonian Monte Carlo Inference of Marginalized Linear Mixed-Effects Models. NeurIPS 2024, the Thirty-Eighth Annual Conference on Neural Information Processing Systems. [[link]](https://arxiv.org/pdf/2410.24079.pdf) [[code]](https://github.com/lll6924/hamiltonian_lme)
 
 **Jinlin Lai**, Anustup Choudhury, Guan-Ming Su. (2024). Outdoor Scene Relighting with Diffusion Models. In *Proceedings of the 27th International Conference on Pattern Recognition* (ICPR), Kolkata, India. (to appear)
 
