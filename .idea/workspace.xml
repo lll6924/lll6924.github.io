@@ -6,11 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="96e427a5-7981-47c8-8e51-a027f9b8bd43" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/algorithms.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/algorithms.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Appetizer - the cruel zoo.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/Appetizer - the cruel zoo.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Dessert - the alien decipher.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/Dessert - the alien decipher.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Main course - the spider delivery man.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/Main course - the spider delivery man.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Preface.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/Preface.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2024-12-30-Preface.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2024-12-30-Preface.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/Appetizer - the cruel zoo.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2024-12-30-zoo.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/Dessert - the alien decipher.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2024-12-30-alien.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/Main course - the spider delivery man.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2024-12-30-spider.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
