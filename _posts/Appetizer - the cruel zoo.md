@@ -1,0 +1,37 @@
+---
+layout: default
+title: "Appetizer - the cruel zoo"
+permalink: /posts/cruel_zoo/
+---
+
+# Appetizer - the cruel zoo
+
+(Readers under the age of 13, please read with your guardian)
+
+A zoo in Crueland goes out of control of human, or becomes under control of a group of $N$ animals. The animals have the nature of eating each other. But slightly fortunately, they quickly choose one of them to maintain the peace in the zoo. The chosen one is named the Monarch, which is selected as the most powerful animal. Each animal has a strength level and a distinct age. The oldest animal among the strongest animals is considered as the Monarch. On the contrary, the youngest animal among the weakest animals is considered as the Tiny. 
+
+The peace could be broken very soon. The powerful Monarch realizes that it can eat the Tiny if it wants. This comes with a price. The strength of the Monarch would be reduced by the strength of the Tiny after choosing to do so. After that, the Monarch and the Tiny would be reselected according the new ordering. It is possible that the original Monarch becomes the new Tiny that could be eaten, so the Monarch has to act wisely. Informally, the animals have a wild nature, so they will choose to eat other animals, if they will not be eventually eaten by the others. 
+
+Remember this is a brain teaser in computer science. So you are given the strength $s_i$ and the age $a_i$ for each animal $i\in \{1,2,...,N\}$. You need to decide the final state of the zoo: who get eaten. This problem was actually inspired by a page of slides in game theory from a high school winter camp (if other people have studied it, please let me know). This may seem like a Leetcode problem, but it is different. Coding is important, but is only half of the story. It is related to game theory, but I would rather call it "a high schooler's view of the world". Physicists have been using spherical horses to study the universe. Economists have been using models to study the society. I understand the world through self-made problems. In my ideal world the Tiny should not be eaten by the Monarch. For example, if $s_i=1$ for all animals, then the Monarch will not eat the Tiny, since otherwise it would become the new Tiny with zero strength to be eaten. Or, if the law enforcement is strong enough to protect the Tiny, there would not be this question in the first place. 
+
+Now, computer scientists reading till here, let's get back to the problem. There is another example I used before. Suppose $N=4$, $s=\{2,2,3,4\}$, $a=\{1,2,3,4\}$. Then the Monarch is the $4$th animal and the Tiny is the $1$st animal. The Monarch will choose to eat the Tiny without punishment. After that, the state becomes $s=\{die,2,3,2\}$. The new Monarch, the $3$rd animal, will not eat the new Tiny, the $2$nd animal, since otherwise it would be eaten by the returned Monarch, the $4$th animal. So the final state stops at $s=\{die,2,3,2\}$ and peace has reached. Can you design an $\mathcal{O}(N\log N)$ algorithm to get the final state of a game given its initial condition?
+
+It is actually not that difficult if you are proficient in Leetcode hard problems. The first thing you could notice is that, there is a chain of events that will or could potentially happen, in the form of 
+- Event $1$: Monarch $x_1$ eats Tiny $y_1$;
+- Event $2$: Monarch $x_2$ eats Tiny $y_2$;
+- ...
+- Event $N-1$: Monarch $x_{N-1}$ eats Tiny $y_{N-1}$.
+In reality, the events will finally cut somewhere, let's say at event $k$, in the decision of Monarch $x_k$ not eating Tiny $y_k$. Then we know that in the final state $y_1,...,y_{k-1}$ are eaten. To obtain the chain of events, we could use two heaps in $\mathcal{O}(N\log N)$. Each time we get the Monarch and the Tiny from a maximal heap and a minimal heap. Then the heaps are updated after an eating event. The above two steps are executed in a loop until there is only one animal left. If you are not familiar with the techniques, you can just assume you already get the chain of events. For my example above, it is
+- Monarch $4$ eats Tiny $1$;
+- Monarch $3$ eats Tiny $2$;
+- Monarch $4$ eats Tiny $3$.
+
+Now, how do we know $k$? The reason why $x_k$ does not eat $y_k$ is that $x_k$ would be eaten afterwards. The first idea is to find the smallest $k$ such that $x_k= y_{l}$ for some $l>k$. This is unfortunately incorrect, because if $x_k=y_l$, $x_l$ may not choose to eat $y_l=x_k$, leaving $x_k$ safe in the future. But this idea is in the correct direction, we need to look at the future. If $x_k$ has access to a death list $D_k$ in the future if it eats $y_k$, it will act wisely:
+- If $x_k\in D_k$, it will not eat $y_k$, which makes $D_{k-1}=\emptyset$;
+- If $x_k\notin D_k$, it will eat $y_k$, which makes $D_{k-1}=D_k\cup \{y_k\}$.
+The reasoning provides a (reversed) sequential algorithm of computing $D$, and knowing the decision of each Monarch. It can be implemented in $\mathcal{O}(N)$ with a trick in competitive programming, which I will not detail here. A simple exercise: you could try to work out the answers for my example.
+
+Looking back, it seems to be a difficult problem, but many attenders of my contest figured it out (I tested the hardness of my ideas with contests)! But it is not until I read it again recently did I realize how it influenced my thinking of the world. If I would do an actual research in this direction, I would be interested in a few things:
+- Generalization to a more complicated toy problem.
+- Work out the true condition that $x_1$ will not eat $y_1$ to begin with. 
+They are both hard in my opinion and my interest quickly shifted after finishing this writeup.

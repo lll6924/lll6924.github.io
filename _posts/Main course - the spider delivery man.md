@@ -1,0 +1,11 @@
+---
+layout: default
+title: "Main course - the spider delivery man"
+permalink: /posts/spider_man/
+---
+
+# Main course - the spider delivery man
+
+(TODO)
+
+(General idea if you are interested: skip list, a **probabilistic** data structure. What if it is bi-directional?)

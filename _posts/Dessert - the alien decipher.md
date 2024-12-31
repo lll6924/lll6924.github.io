@@ -1,0 +1,61 @@
+---
+layout: default
+title: "Dessert - the alien decipher"
+permalink: /posts/alien_decipher/
+---
+
+# Dessert - the alien decipher
+
+(Cryptologist, calm down when I seem overconfident about what I don't know)
+
+In a lot of problems in number sequence, we are given a recursive equation. For example, the Fibonacci sequence is defined as 
+$$
+F_n=\begin{cases}
+0&n=0\\
+1&n=1\\
+F_{n-1}+F_{n-2}&n>1
+\end{cases}
+$$
+We are given a number $n$, and we want to compute $F_n$. For example, $F_3=2$ and $F_5=5$. This has been quite a cliche that every computing book has used it as an example for recursion. However, has anyone thought about the "inverse" problem? Given a file that contains a number $F_n$, how do we know $n$ in an efficient way?
+
+It turns out to be quite naive. You can compute $F_1, F_2,...$ and compare with the number in the file. Or, you could use binary search to locate it in a table of a precomputed sequence. But let's introduce the aliens now. Somehow people learn that two alien empires communicate with each other by sending Fibonacci numbers. The content of each communication is the index of the Fibonacci number. Now, the alien office of the human successfully intercepted one communication, saved it in a file, and ... find it to be about 100YB (it is called yottabyte, if you are interested). We are desperately interested in the answer which is crucial to the existence of the mankind. The problem immediately becomes harder, but luckily we have an algorithm.
+
+The algorithm comes from a simple (and useful) observation
+$$
+F_n=\frac{(1+\sqrt{5})^n-(1-\sqrt{5})^n}{2^n\sqrt{5}}\approx \frac{(1+\sqrt{5})^n}{2^n\sqrt{5}}
+$$
+when $n\to\infty$. Therefore,
+$$
+\log F_n\approx n\log\left(\frac{1+\sqrt{5}}{2}\right)-\log\sqrt{5},
+$$
+and
+$$
+n\approx \frac{\log F_n+\log \sqrt{5}}{\log\left(\frac{1+\sqrt{5}}{2}\right)}.
+$$
+Why is it relevant? Because it is efficient to take the log of a number in a file, without even reading the entire file. Suppose the number $F_n$ is under base $10$, and it reads
+```
+213??????????????????????????????
+```
+in the beginning. We looked at the metadata and knew that it has $m$ digits. Then we have another approximation
+$$
+\log_{10}F_n\approx \log_{10}(213)+m-3.
+$$
+This approximation is valid because the error is controlled
+$$
+\log_{10}F_n-\log_{10}(21300...)\le \log_{10}\frac{214}{213}\approx 0.002.
+$$
+Then, with two approximations, we are able to solve $n$ in almost $\mathcal{O}(1)$:
+$$
+n\approx \frac{\log_{10}(213)+m-3+\log_{10} \sqrt{5}}{\log_{10}\left(\frac{1+\sqrt{5}}{2}\right)}.
+$$
+Now that is the end of an interesting problem and an interesting solution. But the discussion can lead to a lot more directions.
+
+First, although there are approximations in the solution, it is an exact algorithm that always gives the correct answer. It is truer as $n\to\infty$. As I look at it now, it reminds me of many approximate algorithms in machine learning. I hardly appreciate biased inferences, which give biased predictions. But if you tell me it converges as $n\to\infty$, I will definitely love it. The selection of the dominant term also reminds me of techniques for importance sampling. After all, we are both doing log space computation.
+
+Second, some problems have solutions out of the box. In Leetcode, no one has ever created a problem that requires the information of the metadata (correct me if there is). This basically lets me ignore a lot of opportunities that interview with Leetcode problems. Even if I could solve most of the hards, when I am asked about them, I would feel offended. 
+
+Third, hey, are there any benefits for the aliens to communicate with Fibonacci numbers? The limitation of human may not apply to aliens. The human crypto relies on number theories, which study modulo a lot. Modulo restricts the length of a signal, but aliens may already have broken this limitation with advanced technology. They might send YBs of "sparse" communications, knowing that lives with lesser technology could not even study them. 
+
+I am able to decipher because I know it is a Fibonacci number. To make it a more practical crypto system, aliens may hold the order and the coefficients of the characteristic function of the recursion as the keys. Without knowing the form of recursion, the YBs of information means nothing. But with them, it is super efficient to decode, even as a human. Also it is nearly impossible for a human to fake the communication to the aliens. They can generate the sparse communication, so they can also verify whether a received communication belongs to the sequence after solving $n$. 
+
+Back to the original problem, it is not difficult, and a few contestants figured it out. I could hardly think of any use cases, but it is at least interesting, and planted seeds of important ideas I am using now. 
