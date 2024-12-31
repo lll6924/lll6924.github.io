@@ -20,3 +20,6 @@ main:
     
   - title: "Algorithms"
     url: /algorithms/
+
+  - title: "Bayes"
+    url: /bayes/
