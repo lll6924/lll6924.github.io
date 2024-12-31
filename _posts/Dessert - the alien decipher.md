@@ -4,8 +4,6 @@ title: "Dessert - the alien decipher"
 permalink: /posts/alien_decipher/
 ---
 
-# Dessert - the alien decipher
-
 (Cryptologist, calm down when I seem overconfident about what I don't know)
 
 In a lot of problems in number sequence, we are given a recursive equation. For example, the Fibonacci sequence is defined as 

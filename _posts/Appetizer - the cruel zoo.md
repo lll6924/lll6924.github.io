@@ -4,8 +4,6 @@ title: "Appetizer - the cruel zoo"
 permalink: /posts/cruel_zoo/
 ---
 
-# Appetizer - the cruel zoo
-
 (Readers under the age of 13, please read with your guardian)
 
 A zoo in Crueland goes out of control of human, or becomes under control of a group of $N$ animals. The animals have the nature of eating each other. But slightly fortunately, they quickly choose one of them to maintain the peace in the zoo. The chosen one is named the Monarch, which is selected as the most powerful animal. Each animal has a strength level and a distinct age. The oldest animal among the strongest animals is considered as the Monarch. On the contrary, the youngest animal among the weakest animals is considered as the Tiny. 
