@@ -5,7 +5,9 @@ permalink: /algorithms/
 author_profile: true
 ---
 
-### [preface](/posts/preface)
+
+
+### [Preface](/posts/preface)
 
 ### [Appetizer - the cruel zoo](/posts/cruel_zoo)
 
