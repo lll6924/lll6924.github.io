@@ -5,7 +5,7 @@ permalink: /algorithms/
 author_profile: true
 ---
 
-I decide to organize this column in the form of a book. If my narcissism eventually reaches the state that I want to write a book about myself, I can easily publish it at my own cost. 
+I decide to organize this column in the form of a book. If my narcissism eventually reaches the state that I want to write a book about myself, I can easily publish it with little additional cost. 
 
 ### [Preface](/posts/preface)
 
