@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96e427a5-7981-47c8-8e51-a027f9b8bd43" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/2025-01-01-delta.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2024-12-30-spider.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2024-12-30-spider.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/bayes.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/bayes.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,13 +144,13 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/laiji/lll6924.github.io/_pages"
+    "last_opened_file_path": "C:/Users/laiji/lll6924.github.io/_posts"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\laiji\lll6924.github.io\_pages" />
       <recent name="C:\Users\laiji\lll6924.github.io\_posts" />
+      <recent name="C:\Users\laiji\lll6924.github.io\_pages" />
       <recent name="C:\Users\laiji\lll6924.github.io\files" />
       <recent name="$PROJECT_DIR$/_pages" />
       <recent name="$PROJECT_DIR$/files" />
