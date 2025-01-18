@@ -32,6 +32,7 @@ Served as a reviewer for
 - AISTATS 2023, 2024, 2025
 - ICML 2022
 - ICLR 2025
+- ACM SIGPLAN SLE 2025
 
 Talks
 ======

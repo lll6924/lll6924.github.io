@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Computer Science at University of Massachusetts Amherst, working with Professor [Daniel Sheldon](https://people.cs.umass.edu/~sheldon/index.html), expecting to graduate in 2026. Previously I received my B.Eng. in Computer Science from Tsinghua University in Beijing, where I worked with Professors [Dan Pei](https://netman.aiops.org/~peidan/) and Jiaxing Song. I am actively looking for 2025 summer internship opportunities. Please reach out to me if you think I am a fit to your position!
+I am a PhD student in Computer Science at University of Massachusetts Amherst, working with Professor [Daniel Sheldon](https://people.cs.umass.edu/~sheldon/index.html), expecting to graduate in 2026. Previously I received my B.Eng. in Computer Science from Tsinghua University in Beijing, where I worked with Professors [Dan Pei](https://netman.aiops.org/~peidan/) and Jiaxing Song. 
 
 Research Preferences
 ======
