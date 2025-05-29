@@ -29,8 +29,10 @@ Services
 Served as a reviewer for
 - NeurIPS 2024
 - AABI 2023, 2024
-- AISTATS 2023, 2024
+- AISTATS 2023, 2024, 2025
 - ICML 2022
+- ICLR 2025
+- ACM SIGPLAN SLE 2025
 
 Talks
 ======
@@ -38,6 +40,8 @@ Talks
 
 Teaching
 ======
+Spring 2025, Introduction to Computation, Teaching Assistant
+
 Fall 2024, Advanced Algorithms, Teaching Assistant
 
 Spring 2024, Probabilistic Graphical Models, Teaching Assistant
