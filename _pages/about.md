@@ -13,7 +13,7 @@ I am a PhD student in Computer Science at University of Massachusetts Amherst, w
 Research Preferences
 ======
 My research preferences lie on computational statistics and Bayesian inference. Recently, I am working on
-+ Approximate Inference Methods（Variational Inference, Markov chain Monte Carlo, Sequential Monte Carlo）
++ Approximate Inference Methods (Variational Inference, Markov chain Monte Carlo, Sequential Monte Carlo)
 + Probabilistic Programming (especially based on Hamiltonian Monte Carlo)
 + Generative Models (Diffusion Model, Normalizing Flow)
 + Simulation Based Inference (for Scientific Applications)
