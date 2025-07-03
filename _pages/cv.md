@@ -21,16 +21,17 @@ Education
 
 Work experiences
 ======
+- Summer Research Intern, Basis AI Institute, 2025
 - Summer Pre-doctoral Researcher, Flatiron Institute, Simons Foundation, 2024
 - ATG Imaging Research Intern, Dolby Laboratories Inc., 2023
 
 Services
 ======
 Served as a reviewer for
-- NeurIPS 2024
+- NeurIPS 2024, 2025
 - AABI 2023, 2024
 - AISTATS 2023, 2024, 2025
-- ICML 2022
+- ICML 2022, 2025
 - ICLR 2025
 - ACM SIGPLAN SLE 2025
 
