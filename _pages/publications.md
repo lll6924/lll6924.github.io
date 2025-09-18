@@ -7,7 +7,14 @@ author_profile: true
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=tCc0cGwAAAAJ&hl=en&authuser=1).
 
-Max Hamilton\*, **Jinlin Lai**\*, Wenlong Zhao, Subhransu Maji*, Daniel Sheldon*. (2025). Active Measurement: Efficient Estimation at Scale. In Proceedings of the 39th Conference on Neural Information Processing Systems (NeurIPS), to appear. [[link]](https://arxiv.org/pdf/2507.01372.pdf)
+Max Hamilton\*, **Jinlin Lai**\*, Wenlong Zhao, Subhransu Maji, Daniel 
+Sheldon. (2025). Active Measurement: Efficient Estimation at Scale. In 
+Proceedings of the 39th Conference on Neural Information Processing Systems (NeurIPS), to appear. [[link]](https://arxiv.org/pdf/2507.01372.pdf)
+
+Aditya Parashar\*, Aditya Vikram Singh\*, Avinash Amballa\*, Jinlin Lai, and 
+Benjamin Rozonoyer. (2024). ”Quasi-random Multi-Sample Inference for Large 
+Language Models.” In Frontiers in Probabilistic Inference: Learning meets 
+Sampling. [[link]](https://arxiv.org/pdf/2411.06251.pdf)
 
 **Jinlin Lai**\*, Yuling Yao\*. (2024). Predictive variational inference: Learn the predictively optimal posterior distribution. arXiv preprint arXiv:2410.14843. [[link]](https://arxiv.org/pdf/2410.14843.pdf)
 
