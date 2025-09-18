@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jinlin Lai"
+title                    : "Jinlin Lai (赖金霖)"
 title_separator          : "-"
 name                     : "Jinlin Lai"
 description              : "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jinlin Lai"
   avatar           : "avatar.jpeg"
-  bio              : "MS/PhD student at University of Massachusetts Amherst"
+  bio              : "PhD student at University of Massachusetts Amherst"
   location         : "Sunderland, MA"
   employer         :
   pubmed           :
