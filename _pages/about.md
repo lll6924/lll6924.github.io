@@ -16,8 +16,5 @@ My research preferences lie on probabilistic machine learning, computational sta
 + Approximate Inference Methods (Variational Inference, Markov chain Monte Carlo, Sequential Monte Carlo)
 + Probabilistic Programming (especially based on Hamiltonian Monte Carlo)
 + Generative Models (Diffusion Model, Normalizing Flow)
-+ Simulation Based Inference (for Scientific Applications)
-
-Other
-======
-I "made up" some interesting problems in algorithms during my high school and undergraduate. I am actively translating and posting them [here](/algorithms/).
++ Artificial Intelligence for Sciences (Scientific Simulators, Computational 
+  Ecology)

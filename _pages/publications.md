@@ -7,6 +7,7 @@ author_profile: true
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=tCc0cGwAAAAJ&hl=en&authuser=1).
 
+Max Hamilton\*, **Jinlin Lai**\*, Wenlong Zhao, Subhransu Maji*, Daniel Sheldon*. (2025). Active Measurement: Efficient Estimation at Scale. In Proceedings of the 39th Conference on Neural Information Processing Systems (NeurIPS), to appear. [[link]](https://arxiv.org/pdf/2507.01372.pdf)
 
 **Jinlin Lai**\*, Yuling Yao\*. (2024). Predictive variational inference: Learn the predictively optimal posterior distribution. arXiv preprint arXiv:2410.14843. [[link]](https://arxiv.org/pdf/2410.14843.pdf)
 

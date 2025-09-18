@@ -41,6 +41,8 @@ Talks
 
 Teaching
 ======
+Fall 2025, Algorithms for Data Science, Teaching Assistant
+
 Spring 2025, Introduction to Computation, Teaching Assistant
 
 Fall 2024, Advanced Algorithms, Teaching Assistant
