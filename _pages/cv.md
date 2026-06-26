@@ -14,7 +14,7 @@ My cv in PDF can be found [here](/files/cv.pdf)
 
 Education
 ======
-- Ph.D. in Computer Science, University of Massachusetts Amherst, 2026 (expected)
+- Ph.D. in Computer Science, University of Massachusetts Amherst, 2026
 - M.S. in Computer Science, University of Massachusetts Amherst, 2024
 - B.Eng. in Computer Science and Technology, Tsinghua University, 2020
 - Minor in Finance and Entrepreneurship, PBCSF, Tsinghua University, 2019
@@ -28,12 +28,13 @@ Work experiences
 Services
 ======
 Served as a reviewer for
-- NeurIPS 2024, 2025
-- AABI 2023, 2024
+- NeurIPS 2024, 2025, 2026
+- AABI (ProbML) 2023, 2024, 2026
 - AISTATS 2023, 2024, 2025
-- ICML 2022, 2025
+- ICML 2022, 2025, 2026
 - ICLR 2025
 - ACM SIGPLAN SLE 2025
+- TMLR
 
 Talks
 ======

@@ -7,6 +7,13 @@ author_profile: true
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=tCc0cGwAAAAJ&hl=en&authuser=1).
 
+**Jinlin Lai**, Charles Margossian, Daniel Sheldon. (2026). Corrected Integrated Laplace Approximation for Bayesian Inference in Latent Gaussian Models. arXiv preprint arXiv:2605.20345. [[link]](https://arxiv.org/pdf/2605.20345.pdf)
+
+Max Hamilton, **Jinlin Lai**, Daniel Sheldon, Subhransu Maji. (2026). Scalable Model-Assisted Multi-Target Estimation in Large Image Collections. UAI 2026. To appear.
+
+**Jinlin Lai**, Antonio Ricardo Linero, Yuling Yao. (2026). Predictive variational inference: Learn the predictively optimal posterior distribution. In Proceedings of the 43 rd International Conference on Machine
+Learning (ICML), Seoul, South Korea. PMLR 306, 2026. To appear. [[link]](https://arxiv.org/pdf/2410.14843.pdf)
+
 Max Hamilton\*, **Jinlin Lai**\*, Wenlong Zhao, Subhransu Maji, Daniel 
 Sheldon. (2025). Active Measurement: Efficient Estimation at Scale. In 
 Proceedings of the 39th Conference on Neural Information Processing Systems (NeurIPS), to appear. [[link]](https://arxiv.org/pdf/2507.01372.pdf)
@@ -16,8 +23,6 @@ and
 Benjamin Rozonoyer. (2024). ”Quasi-random Multi-Sample Inference for Large 
 Language Models.” In Frontiers in Probabilistic Inference: Learning meets 
 Sampling. [[link]](https://arxiv.org/pdf/2411.06251.pdf)
-
-**Jinlin Lai**\*, Yuling Yao\*. (2024). Predictive variational inference: Learn the predictively optimal posterior distribution. arXiv preprint arXiv:2410.14843. [[link]](https://arxiv.org/pdf/2410.14843.pdf)
 
 **Jinlin Lai**, Justin Domke, Daniel Sheldon. (2024). Hamiltonian Monte Carlo Inference of Marginalized Linear Mixed-Effects Models. NeurIPS 2024, the Thirty-Eighth Annual Conference on Neural Information Processing Systems. [[link]](https://arxiv.org/pdf/2410.24079.pdf) [[code]](https://github.com/lll6924/hamiltonian_lme)
 
