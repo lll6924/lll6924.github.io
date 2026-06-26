@@ -399,3 +399,12 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+::selection {
+  background: #6fdc6f;
+  color: #0d0d0d;
+}
+::-moz-selection {
+  background: #6fdc6f;
+  color: #0d0d0d;
+}
