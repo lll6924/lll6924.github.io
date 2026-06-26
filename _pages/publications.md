@@ -16,7 +16,7 @@ Learning (ICML), Seoul, South Korea. PMLR 306, 2026. To appear. [[link]](https:/
 
 Max Hamilton\*, **Jinlin Lai**\*, Wenlong Zhao, Subhransu Maji, Daniel 
 Sheldon. (2025). Active Measurement: Efficient Estimation at Scale. In 
-Proceedings of the 39th Conference on Neural Information Processing Systems (NeurIPS), to appear. [[link]](https://arxiv.org/pdf/2507.01372.pdf)
+Proceedings of the 39th Conference on Neural Information Processing Systems (NeurIPS). [[link]](https://arxiv.org/pdf/2507.01372.pdf)
 
 Aditya Parashar\*, Aditya Vikram Singh\*, Avinash Amballa\*, **Jinlin Lai**, 
 and 
@@ -24,7 +24,8 @@ Benjamin Rozonoyer. (2024). ”Quasi-random Multi-Sample Inference for Large
 Language Models.” In Frontiers in Probabilistic Inference: Learning meets 
 Sampling. [[link]](https://arxiv.org/pdf/2411.06251.pdf)
 
-**Jinlin Lai**, Justin Domke, Daniel Sheldon. (2024). Hamiltonian Monte Carlo Inference of Marginalized Linear Mixed-Effects Models. NeurIPS 2024, the Thirty-Eighth Annual Conference on Neural Information Processing Systems. [[link]](https://arxiv.org/pdf/2410.24079.pdf) [[code]](https://github.com/lll6924/hamiltonian_lme)
+**Jinlin Lai**, Justin Domke, Daniel Sheldon. (2024). Hamiltonian Monte Carlo Inference of Marginalized Linear Mixed-Effects Models. In 
+Proceedings of the 38th Conference on Neural Information Processing Systems (NeurIPS). [[link]](https://arxiv.org/pdf/2410.24079.pdf) [[code]](https://github.com/lll6924/hamiltonian_lme)
 
 **Jinlin Lai**, Anustup Choudhury, Guan-Ming Su. (2024). Outdoor Scene Relighting with Diffusion Models. In *Proceedings of the 27th International Conference on Pattern Recognition* (ICPR), Kolkata, India. [[link]](https://link.springer.com/chapter/10.1007/978-3-031-78172-8_27)
 

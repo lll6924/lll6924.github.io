@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I completed my Ph.D. in Computer Science at University of Massachusetts 
-Amherst, under the supervision of Professor [Daniel Sheldon] (https://people.cs.umass.edu/~sheldon/index.html). Previously I received my B.Eng. in 
+Amherst, under the supervision of Professor [Daniel Sheldon](https://people.cs.umass.edu/~sheldon/index.html). Previously I received my B.Eng. in 
 Computer Science from Tsinghua University in Beijing. 
 
 Research Preferences
