@@ -47,15 +47,6 @@ $type-size-8                : 0.625em;  // ~10px
    Colors
    ========================================================================== */
 
-::selection {
-  background: #6fdc6f;
-  color: #0d0d0d;
-}
-::-moz-selection {
-  background: #6fdc6f;
-  color: #0d0d0d;
-}
-
 $gray                       : #6a8a6a;
 $dark-gray                  : mix(#fff, $gray, 20%);
 $darker-gray                : mix(#fff, $gray, 40%);
@@ -149,6 +140,7 @@ $susy: (
   //   toggle: top right,
   // ),
 );
+
 
 
 /*
