@@ -28,9 +28,9 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-$global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif;
-$caption-font-family        : $serif;
+$global-font-family         : $monospace;
+$header-font-family         : $monospace;
+$caption-font-family        : $monospace;
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
@@ -46,6 +46,15 @@ $type-size-8                : 0.625em;  // ~10px
 /*
    Colors
    ========================================================================== */
+
+::selection {
+  background: #6fdc6f;
+  color: #0d0d0d;
+}
+::-moz-selection {
+  background: #6fdc6f;
+  color: #0d0d0d;
+}
 
 $gray                       : #6a8a6a;
 $dark-gray                  : mix(#fff, $gray, 20%);
