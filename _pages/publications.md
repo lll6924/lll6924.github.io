@@ -11,7 +11,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 Max Hamilton, **Jinlin Lai**, Daniel Sheldon, Subhransu Maji. (2026). Scalable Model-Assisted Multi-Target Estimation in Large Image Collections. UAI 2026. To appear.
 
-**Jinlin Lai**, Antonio Ricardo Linero, Yuling Yao. (2026). Predictive variational inference: Learn the predictively optimal posterior distribution. In Proceedings of the 43 rd International Conference on Machine
+**Jinlin Lai**, Antonio Ricardo Linero, Yuling Yao. (2026). Predictive Variational Inference: Learn the Predictively Optimal Posterior Distribution. In Proceedings of the 43 rd International Conference on Machine
 Learning (ICML), Seoul, South Korea. PMLR 306, 2026. To appear. [[link]](https://arxiv.org/pdf/2410.14843.pdf)
 
 Max Hamilton\*, **Jinlin Lai**\*, Wenlong Zhao, Subhransu Maji, Daniel 
