@@ -47,18 +47,18 @@ $type-size-8                : 0.625em;  // ~10px
    Colors
    ========================================================================== */
 
-$gray                       : #6e7570;
-$dark-gray                  : mix(#000, $gray, 40%);
-$darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 50%);
-$lighter-gray               : mix(#fff, $gray, 90%);
+$gray                       : #6a8a6a;
+$dark-gray                  : mix(#fff, $gray, 20%);
+$darker-gray                : mix(#fff, $gray, 40%);
+$light-gray                 : mix(#000, $gray, 50%);
+$lighter-gray               : mix(#000, $gray, 80%);
 
-$body-color                 : #f8f8f5;
-$background-color           : #f8f8f5;
-$code-background-color      : #eef0ec;
+$body-color                 : #0d0d0d;
+$background-color           : #0d0d0d;
+$code-background-color      : #1a1a1a;
 $code-background-color-dark : $light-gray;
-$text-color                 : #222;
-$border-color               : $lighter-gray;
+$text-color                 : #c8e6c8;
+$border-color               : #3fa03f;
 
 $primary-color              : #7a8288;
 $success-color              : #62c462;
