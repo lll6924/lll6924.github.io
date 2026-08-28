@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Jinlin Lai"
-  avatar           : "avatar2.jpg"
+  avatar           : "prof1.jpg"
   bio              : "Ph.D."
-  location         : "Sunderland, MA"
+  location         : "Vista, CA"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=tCc0cGwAAAAJ&hl=en&authuser=1"
-  email            : "jinlinlai@umass.edu"
+  email            : "jilai@csusm.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
