@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I completed my Ph.D. in Computer Science at University of Massachusetts 
+I am an assistant professor in computer science at California State University, San Marcos. I completed my Ph.D. in Computer Science at University of Massachusetts 
 Amherst, under the supervision of Professor [Daniel Sheldon](https://people.cs.umass.edu/~sheldon/index.html). Previously I received my B.Eng. in 
 Computer Science from Tsinghua University in Beijing. 
 
