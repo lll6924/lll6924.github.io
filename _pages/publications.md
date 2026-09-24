@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=tCc0cGwAAAAJ&hl=en&authuser=1).
+You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=5KmOWoEAAAAJ&hl=en).
 
 **Jinlin Lai**, Charles Margossian, Daniel Sheldon. (2026). Corrected Integrated Laplace Approximation for Bayesian Inference in Latent Gaussian Models. arXiv preprint arXiv:2605.20345. [[link]](https://arxiv.org/pdf/2605.20345.pdf)
 
