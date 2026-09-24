@@ -8,12 +8,12 @@ author_profile: true
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=5KmOWoEAAAAJ&hl=en).
 
 **Jinlin Lai**, Charles Margossian, Daniel Sheldon. (2026). Corrected Integrated Laplace Approximation for Bayesian Inference in Latent Gaussian Models. In 
-*Proceedings of the 40th Conference on Neural Information Processing Systems* (NeurIPS). **Spotlight** [[preprint]](https://arxiv.org/pdf/2605.20345.pdf)
+*Proceedings of the 40th Conference on Neural Information Processing Systems* (NeurIPS, **Spotlight**, to appear). [[preprint]](https://arxiv.org/pdf/2605.20345.pdf)
 
-Max Hamilton, **Jinlin Lai**, Daniel Sheldon, Subhransu Maji. (2026). Scalable Model-Assisted Multi-Target Estimation in Large Image Collections. In *Proceedings of  the 42nd Conference on Uncertainty in Artificial Intelligence* (UAI 2026). To appear.
+Max Hamilton, **Jinlin Lai**, Daniel Sheldon, Subhransu Maji. (2026). Scalable Model-Assisted Multi-Target Estimation in Large Image Collections. In *Proceedings of  the 42nd Conference on Uncertainty in Artificial Intelligence* (UAI 2026). [[link]](https://arxiv.org/pdf/2607.17581)
 
 **Jinlin Lai**, Antonio Ricardo Linero, Yuling Yao. (2026). Predictive Variational Inference: Learn the Predictively Optimal Posterior Distribution. In *Proceedings of the 43rd International Conference on Machine
-Learning* (ICML), Seoul, South Korea. PMLR 306, 2026. To appear. [[link]](https://arxiv.org/pdf/2410.14843.pdf)
+Learning* (ICML), Seoul, South Korea. PMLR 306, 2026. [[link]](https://arxiv.org/pdf/2410.14843.pdf)
 
 Max Hamilton\*, **Jinlin Lai**\*, Wenlong Zhao, Subhransu Maji, Daniel 
 Sheldon. (2025). Active Measurement: Efficient Estimation at Scale. In 
